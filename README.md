@@ -1,4 +1,4 @@
-# ESG_Environmental_Scores_Signals_vs_Substance
+# ESG Environmental Scores: Signals vs Substance
 This project examines whether improvements in ESG Environmental scores reflect genuine environmental performance or are driven by disclosure effects. Using firm-level panel data, ESG score changes are analyzed alongside carbon intensity dynamics while controlling for industry and time effects. The focus is on interpretability and economic reasoning rather than complex black-box models.
 
 ## Research Questions
